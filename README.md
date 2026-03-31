@@ -1,12 +1,22 @@
-<<<<<<< HEAD
-# Learning Latent Representations for Progressive Time Series
+# STEP: Learning STructured Embeddings for Progressive Time Series
 
+This repository contains code and resources for learning latent representations in progressive time series data.
 
+## Contents
 
-Code is currently being prepared for submission. It will be pushed here once ready, as soon as possible. 
+- **`/figures`**: Contains figures from HI evaluations.
+- **`/CMAPSS`**: Includes code for training models on various datasets, a Jupyter notebook for interactive analysis, and scripts for running additional experiments.
+- **`/vinograd`**: Contains Vinograd’s mouse neural activity data and related scripts.
 
-Thank you.
-=======
-# LRPTS
-Learning Latent Representations for Progressive Time Series
->>>>>>> parent of 0eee660 (Update README.md)
+## Setup
+
+### Data Preparation
+
+To unzip the CMAPSS dataset, run the following command in your terminal:
+
+```bash
+unzip data.zip
+```
+
+This will extract the dataset into the current directory.
+
