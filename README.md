@@ -33,3 +33,5 @@ Figure 1. Approach overview. a) Model Learning using triplet sampling. b) Latent
 ### FD004 CMAPSS t-SNE of latent trajectory from engine 20
 
 ![FD004 Example of latent HIs](/figures/FD004.png) 
+
+It reflects the learned progressive representation of the underlying estimated health states. Proxy indicators such as the angular position and the radius permit to interface with the manifold, which can be useful for industrials in quest of health indicators. A downstream model takes this latent and derived indicators, and models temporal relationships while also mitigating noise present in the dataset towards downstream tasks, such as RUL prediction in CMAPSS. 
