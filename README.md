@@ -28,4 +28,8 @@ Figure 1. Approach overview. a) Model Learning using triplet sampling. b) Latent
 
 ### latent, theta and r capture state, not t/T
 
-![FD002 Example of latent HIs](/figures/FD002_latent_hi_distribution_comparison_tT.png)   
+![FD002 Example of latent HIs](/figures/FD002_latent_hi_distribution_comparison_tT.png) 
+
+### FD004 CMAPSS t-SNE of latent trajectory from engine 20
+
+![FD004 Example of latent HIs](/figures/FD004.png) 
