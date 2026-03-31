@@ -20,3 +20,8 @@ unzip data.zip
 
 This will extract the dataset into the current directory.
 
+## Figures
+
+### latent, theta and r capture state, not t/T
+
+![FD002 Example of latent HIs](/figures/FD002_latent_hi_distribution_comparison_tT.png)   
